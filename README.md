@@ -2,7 +2,7 @@
 
 *"Can we build it? Yes, we AI!"*
 <p>
-  <img src="assets/bob-the-ai-builder-banner.png" alt="Bob the AI Builder Banner" width="100%">
+  <img src="image.png" alt="Bob the AI Builder Banner" width="100%">
 </p>
 ## About
 
