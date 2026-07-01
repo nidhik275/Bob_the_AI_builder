@@ -1,10 +1,8 @@
 # 🤖 Bob the AI Builder
 
 *"Can we build it? Yes, we AI!"*
-<p align="center">
-
+<p>
   <img src="assets/bob-the-ai-builder-banner.png" alt="Bob the AI Builder Banner" width="100%">
-
 </p>
 ## About
 
