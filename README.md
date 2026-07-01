@@ -4,6 +4,7 @@
 <p>
   <img src="image.png" alt="Bob the AI Builder Banner" width="65%">
 </p>
+
 ## About
 
 **Bob the AI Builder** is a weekly learning series focused on building practical AI projects in just **15 minutes**.
