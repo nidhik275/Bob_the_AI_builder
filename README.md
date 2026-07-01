@@ -1,7 +1,11 @@
 # 🤖 Bob the AI Builder
 
 *"Can we build it? Yes, we AI!"*
+<p align="center">
 
+  <img src="assets/bob-the-ai-builder-banner.png" alt="Bob the AI Builder Banner" width="100%">
+
+</p>
 ## About
 
 **Bob the AI Builder** is a weekly learning series focused on building practical AI projects in just **15 minutes**.
