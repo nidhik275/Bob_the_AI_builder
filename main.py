@@ -28,7 +28,7 @@ def extract_text_from_pdf(pdf_file):
     return text
     
     
-def extact_text_fron_file(uploaded_file):
+def extact_text_from_file(uploaded_file):
     if uploaded_file.type == "application/pdf":
         return extract_text_from_pdf(io.BytesIO(uploaded_file.read()))
     return uploaded_file.read().decode("utf-8")
@@ -36,7 +36,7 @@ def extact_text_fron_file(uploaded_file):
 if analyse and uploaded_file:
     #st.write("Button pressed")
     try:
-        file_content = extact_text_fron_file(uploaded_file)
+        file_content = extact_text_from_file(uploaded_file)
         
         if not file_content.strip():
             st.error("File does not have any content..")
