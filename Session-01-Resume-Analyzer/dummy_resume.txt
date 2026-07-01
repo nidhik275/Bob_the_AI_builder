@@ -1,0 +1,40 @@
+Rahul Sharma
+
+Email: rahul.sharma@example.com Phone: +91 98765 43210 Location:
+Bengaluru, India
+
+Professional Summary
+
+First-year Software Developer with experience building small web
+applications and REST APIs using Python and Java. Passionate about
+backend development, cloud technologies, and problem solving.
+
+Skills
+
+-   Python, Java
+-   SQL, PostgreSQL
+-   Git, GitHub
+-   REST APIs
+-   Linux
+-   Docker (Basics)
+
+Experience
+
+Software Developer I
+
+ABC Tech Pvt. Ltd. July 2025 – Present - Developed REST API endpoints
+using Python. - Fixed production bugs and wrote unit tests. - Worked
+with Git and CI/CD pipelines. - Participated in Agile ceremonies.
+
+Projects
+
+-   Task Manager API
+-   URL Shortener
+
+Education
+
+B.Tech. in Computer Science XYZ University (2025)
+
+Certifications
+
+-   AWS Cloud Practitioner (In Progress)

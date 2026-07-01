@@ -1,0 +1,24 @@
+Mid-Level Backend Software Engineer
+
+Responsibilities:
+- Design, develop, and maintain scalable backend services and RESTful APIs.
+- Write clean, maintainable, and well-tested code.
+- Optimize application performance and troubleshoot production issues.
+- Design database schemas and write efficient SQL queries.
+- Collaborate with frontend engineers, QA, product managers, and DevOps teams.
+- Participate in code reviews and architectural discussions.
+- Contribute to CI/CD pipelines and deployment automation.
+- Monitor applications and improve reliability and observability.
+
+Required Skills:
+- 3–5 years of backend development experience.
+- Strong proficiency in Java, Python, Go, or Node.js.
+- Experience with SQL and NoSQL databases.
+- Knowledge of distributed systems, caching, and messaging systems.
+- Familiarity with Docker, Kubernetes, and cloud platforms (AWS/Azure/GCP).
+- Understanding of Git, testing frameworks, and CI/CD.
+
+Preferred:
+- Experience with microservices.
+- Exposure to monitoring tools such as Prometheus or Grafana.
+- Knowledge of system design and performance tuning.
