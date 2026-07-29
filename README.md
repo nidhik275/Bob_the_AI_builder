@@ -71,7 +71,7 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
@@ -90,18 +90,9 @@ Each new session adds another practical AI project to the collection.
 
 Some ideas for future sessions include:
 
-- AI Meeting Notes Summarizer
-- Resume vs Job Matcher
-- AI Email Generator
-- SQL Query Generator
-- Code Reviewer
-- Documentation Generator
-- PDF Chat Assistant
-- Image Caption Generator
+- Amazon Product review Analyzer
 - Voice-to-Notes
-- AI Test Case Generator
-- Git Commit Message Generator
-- AI-powered Log Analyzer
+
 
 ---
 
