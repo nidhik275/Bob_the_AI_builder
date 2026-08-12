@@ -54,9 +54,8 @@ This section will grow over time as new sessions are added.
 | Session | Project | Description |
 |---------|----------|-------------|
 | 01 | AI Resume Analyzer | Upload a resume and compare it against a job description using the OpenAI API. Receive AI-generated feedback on strengths, weaknesses, skill gaps, and suggestions for improvement. Built with Python, Streamlit, and the OpenAI SDK. |
-|---------|----------|-------------|
 | 02 | Product Sales Dashboard + AI Q&A | Based on the product sale data get detailed analysis and AI powered Q&A and product recommendations |
-|---------|----------|-------------|
+
 
 ---
 
