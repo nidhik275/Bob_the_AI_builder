@@ -2,7 +2,7 @@ import streamlit as st
 import whisper
 import tempfile
 
-st.title("🎙️ Audio Transcriber (Free, Local Whisper)")
+st.title("Audio Transcriber - Free, Local Whisper)")
 
 model = whisper.load_model("base")  # tiny, base, small, medium, large
 
